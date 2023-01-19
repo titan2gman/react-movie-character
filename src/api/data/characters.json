@@ -1,0 +1,50 @@
+[
+  {
+    "id": "C0001",
+    "name": "Luke Skywalker",
+    "born": "19 BBY",
+    "hair_colour": "Blonde",
+    "height": "172cm",
+    "movies": ["M004", "M005", "M006", "M007", "M008", "M009"]
+  },
+  {
+    "id": "C0002",
+    "name": "Leia Organa",
+    "born": "19 BBY",
+    "hair_colour": "Brown",
+    "height": "150cm",
+    "movies": ["M004", "M005", "M006", "M007", "M008", "M009"]
+  },
+  {
+    "id": "C0003",
+    "name": "Anakin Skywalker",
+    "born": "41 BBY",
+    "hair_colour": "Blonde",
+    "height": "188cm",
+    "movies": ["M001", "M002", "M003", "M004", "M005", "M006"]
+  },
+  {
+    "id": "C0004",
+    "name": "Han Solo",
+    "born": "32 BBY",
+    "hair_colour": "Brown",
+    "height": "180cm",
+    "movies": ["M004", "M005", "M006", "M007"]
+  },
+  {
+    "id": "C0005",
+    "name": "Ben Solo",
+    "born": "5 ABY",
+    "hair_colour": "Black",
+    "height": "189cm",
+    "movies": ["M007", "M008", "M009"]
+  },
+  {
+    "id": "C0006",
+    "name": "Rey Skywalker",
+    "born": "15 ABY",
+    "hair_colour": "Brown",
+    "height": "170cm",
+    "movies": ["M007", "M008", "M009"]
+  }
+]
